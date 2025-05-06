@@ -28,7 +28,7 @@ Even after ruling out software artifacts via independent Python and PHP implemen
 - `code/` – Sonification scripts in both PHP and Python
 - `audio_samples/` – WAV files of real and simulated data
 - `figures/` – Spectrograms and waveform plots of key audio segments
-- `data/` – Temperature log data
+- `data.zip` – Temperature log data
 - `README.md` – This file
 
 ---
@@ -54,7 +54,7 @@ See Section 6 of the write-up for detailed results.
 All code runs with standard PHP 7+ or Python 3.8+ with `numpy`, `scipy`, and `matplotlib`.
 
 1. Clone the repo.
-2. Place your `.dat` log files in `data/` (format: `<timestamp> <temp> <date> <time>`).
+2. Unzip and place your `.dat` log files in `data/` (format: `<timestamp> <temp> <date> <time>`).
 3. Run the appropriate script in `code/` to generate a `.wav` file.
 4. Analyze audio in Audacity or spectrogram tools like SoX or matplotlib.
 
