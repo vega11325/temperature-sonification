@@ -6,7 +6,7 @@
 
 ---
 
-![Spectrogram of Temperature Audio](Spectrogram%20-%20Snippet1%20(May-Nov%202018).png)
+![Spectrogram of Temperature Audio](figures/Spectrogram%20-%20Snippet1%20(May-Nov%202018).png)
 
 ## 🧊 What This Is
 
