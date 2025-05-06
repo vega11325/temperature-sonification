@@ -6,6 +6,8 @@
 
 ---
 
+![Spectrogram of Temperature Audio](figures/spectrogram1.png)
+
 ## 🧊 What This Is
 
 This project explores the unexpected and oddly structured results of sonifying temperature data collected from a low-cost USB thermometer. By mapping each 5-minute temperature reading to a single 16-bit audio sample and playing the resulting waveform at 8,000 Hz, the dataset was time-compressed by a factor of 2.4 million.
