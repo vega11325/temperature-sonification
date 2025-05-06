@@ -6,7 +6,7 @@
 
 ---
 
-![Spectrogram of Temperature Audio](figures/spectrogram1.png)
+![Spectrogram of Temperature Audio](figures/Waveforms.png)
 
 ## 🧊 What This Is
 
